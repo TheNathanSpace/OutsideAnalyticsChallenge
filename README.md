@@ -17,6 +17,12 @@ python elevator.py [starting floor] [floors to visit]
 python test_elevator.py
 ```
 
+Output is in the format
+
+```properties
+[total travel time] [floors visited in order]
+```
+
 ## Details
 
 Based on the given problem description, the `starting floor` and `floors to visit` inputs provide the floors to visit in

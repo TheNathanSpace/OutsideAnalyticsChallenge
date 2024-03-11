@@ -19,7 +19,7 @@ python test_elevator.py
 
 Output is in the format
 
-```properties
+```
 [total travel time] [floors visited in order]
 ```
 
